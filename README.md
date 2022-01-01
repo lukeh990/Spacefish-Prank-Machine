@@ -1,3 +1,2 @@
-# Spacefish Prank Machine
-## AKA Project Joker
+# Spacefish Prank Machine <br/> AKA Project Joker
 Prank Spacefish!
