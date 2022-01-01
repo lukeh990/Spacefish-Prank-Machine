@@ -1,0 +1,23 @@
+{
+  "name": "spacefish-prank-machine",
+  "version": "1.0.0",
+  "description": "Prank Spacefish!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeh990/Spacefish-Prank-Machine.git"
+  },
+  "author": "Luke Harding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lukeh990/Spacefish-Prank-Machine/issues"
+  },
+  "homepage": "https://github.com/lukeh990/Spacefish-Prank-Machine#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "ws": "^8.4.0"
+  }
+}
